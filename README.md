@@ -1,3 +1,6 @@
+# Prédire le cours du bitcoin
+
+Exercice de prédiction. Analyser et nettoyer un dataset retraçant le cours du bitcoin et créer un modèle pour prédire le cours du bitcoin en temps réel
 
 ## Ressources
  - Kaggle => https://www.kaggle.com/datasets/mczielinski/bitcoin-historical-data
